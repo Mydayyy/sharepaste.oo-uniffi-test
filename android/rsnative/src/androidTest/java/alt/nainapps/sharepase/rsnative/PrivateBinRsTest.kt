@@ -1,5 +1,6 @@
 package alt.nainapps.sharepase.rsnative
 
+import alt.nainapps.sharepaste.rsnative.PrivateBinRs
 import org.junit.Assert
 import org.junit.Test
 
